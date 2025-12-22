@@ -1,4 +1,4 @@
-// 10 actes d'accusation distincts
+// 20 actes d'accusation distincts
 const accusations = [
   "La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.",
   "La France Insoumise aurait tué Jésus pour gagner le vote des banlieux juives",
