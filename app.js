@@ -1,6 +1,6 @@
 const accusations = [
   `La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.`,
-  `La France Insoumise aurait tué Jésus pour gagner le vote des banlieux juives.`,
+  `La France Insoumise aurait tué Jésus pour gagner le vote des banlieues juives.`,
   `La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus.`,
   `La France Insoumise serait à l’origine des frères musulmans et serait en train de travailler sur la version woke des "soeurs musulmanes".`,
   `La France Insoumise est rendue coupable de bordéliser les débats, créant ainsi une surcharge de travail pour les services de nettoyage du débat public.`,
@@ -13,43 +13,58 @@ const accusations = [
   `La France Insoumise n’a pas eu de pensées pour les familles des vitrines.`,
   `La France Insoumise souhaite la révolution pour changer la politique, la société, la civilisation, le continuum espace temps et l’ordre naturel des choses.`,
   `La France Insoumise n’aime pas Michel Sardou, ce qui prouve qu’ils n’aiment pas ce que nous sommes.`,
-  `La France Insoumise est accusée de provoquer la désunion à gauche, en rejetant l’Alliance au profit de la Horde, ce qui complique fortement le jeu.`
-  `La France Insoumise serait sortie de l’arc républicain pour entrer dans l’arc narratif`
-  `La France Insoumise est accusée d'avoir purgé des individues de leur péchés `
-  `La France Insoumise 1 PB`
-  `La France Insoumise refuse les primaires pour éviter un amalgame avec les primeurs, selon des sources proches du marché`
-  `La France Insoumise est accusée d’être une dictature, alors qu’elle est juste dirigée par quelqu’un qui a toujours raison `
-  `La France Insoumise est accusée d’avoir inventé le mot “génocide” pour mettre mal à l’aise les génocidaires`
-  `La France Insoumise est accusée d’avoir inventé le mot “islamophobie” pour mettre mal à l’aise les islamophobes`
-  `La France Insoumise serait complaisante avec Jafar Lazhar`
-  `La France Insoumise serait passée du champ républicain au champ lexical`
-  `La France Insoumise ne menace pas seulement la République au sens institutionnel du terme, mais l’idée même que nous nous faisons de la République comme récit commun, lequel, dès lors qu’il est interrogé, fragilisé, déplacé ou simplement mal formulé, cesse d’être un socle pour devenir une inquiétude, inquiétude qui n’est pas sans rappeler que toute remise en question, lorsqu’elle émane d’un camp qui se dit populaire, finit toujours par ressembler à une attaque contre ce que nous croyions être immuable, et c’est précisément là que réside le danger, non pas dans ce qui est dit, mais dans le fait que cela puisse être pensé.`
-  `La France Insoumise est accusée de ne pas avoir tweeté le bon émoji le 7 octobre `
-  `La France Insoumise est accusée de cliver le pays, notamment en parlant de choses qui clivent `
+  `La France Insoumise est accusée de provoquer la désunion à gauche, en rejetant l’Alliance au profit de la Horde, ce qui complique fortement le jeu.`,
+  `La France Insoumise serait sortie de l’arc républicain pour entrer dans l’arc narratif.`,
+  `La France Insoumise est accusée d’avoir purgé des individus de leurs péchés.`,
+  `La France Insoumise 1 PB.`,
+  `La France Insoumise refuse les primaires pour éviter un amalgame avec les primeurs, selon des sources proches du marché.`,
+  `La France Insoumise est accusée d’être une dictature, alors qu’elle est juste dirigée par quelqu’un qui a toujours raison.`,
+  `La France Insoumise est accusée d’avoir inventé le mot “génocide” pour mettre mal à l’aise les génocidaires.`,
+  `La France Insoumise est accusée d’avoir inventé le mot “islamophobie” pour mettre mal à l’aise les islamophobes.`,
+  `La France Insoumise serait complaisante avec Jafar Lazhar.`,
+  `La France Insoumise serait passée du champ républicain au champ lexical.`,
+  `La France Insoumise ne menace pas seulement la République au sens institutionnel du terme, mais l’idée même que nous nous faisons de la République comme récit commun, lequel, dès lors qu’il est interrogé, fragilisé, déplacé ou simplement mal formulé, cesse d’être un socle pour devenir une inquiétude, inquiétude qui n’est pas sans rappeler que toute remise en question, lorsqu’elle émane d’un camp qui se dit populaire, finit toujours par ressembler à une attaque contre ce que nous croyions être immuable, et c’est précisément là que réside le danger, non pas dans ce qui est dit, mais dans le fait que cela puisse être pensé.`,
+  `La France Insoumise est accusée de ne pas avoir tweeté le bon émoji le 7 octobre.`,
+  `La France Insoumise est accusée de cliver le pays, notamment en parlant de choses qui clivent.`
 ];
 
 const sources = [
   `Un extrait sorti de son contexte, relayé en boucle.`,
-  `Une séquence vidéo partielle, commentée sans nuance.`,
-  `Un éditorial au ton assuré, sans éléments vérifiables.`,
-  `Une capture d’écran recadrée plusieurs fois.`,
-  `Un thread commençant par "je ne dis pas que, mais".`
+  `Une séquence vidéo partielle, commentée avec aplomb.`,
+  `Un bandeau d’info très inquiet.`,
+  `Une capture d’écran recadrée, puis recadrée encore.`,
+  `Un thread commençant par "je ne dis pas que, mais".`,
+  `Une chronique indignée, sans définition précise.`,
+  `Un montage flouté avec des flèches rouges.`,
+  `Une indignation collective en plusieurs épisodes.`,
+  `Un expert auto-proclamé en plateau.`,
+  `Une source proche du dossier, donc très sûre.`
 ];
 
 const preuves = [
-  `Si beaucoup de gens en parlent, c’est que ce n’est pas un hasard.`,
-  `L’absence de preuve formelle renforce les soupçons.`,
+  `Si tout le monde le répète, c’est que c’est vrai.`,
   `Le ressenti collectif vaut démonstration.`,
-  `Le simple doute justifie l’accusation.`,
-  `Le fait que cela choque prouve que c’est grave.`
+  `L’absence de preuve est une preuve de plus.`,
+  `On sait bien ce que ça veut dire, même si on ne sait pas l’expliquer.`,
+  `Le simple doute suffit à conclure.`,
+  `Ça choque, donc c’est grave.`,
+  `C’est écrit en majuscules, donc c’est établi.`,
+  `Ça a fait un segment de 12 minutes, donc c’est sérieux.`,
+  `Tout le monde le pense tout bas, donc on va le dire très fort.`,
+  `Si c’était faux, ça se saurait.`
 ];
 
 const conclusions = [
-  `Il convient de s’indigner immédiatement.`,
-  `Une vigilance accrue s’impose, sans attendre davantage.`,
-  `Le débat doit être posé, même sans faits établis.`,
-  `Il est urgent de condamner moralement.`,
-  `La question mérite d’être posée avec gravité.`
+  `Indignation immédiate recommandée.`,
+  `La République est en danger, mais on ne sait pas laquelle.`,
+  `Il convient de condamner moralement, puis de réfléchir éventuellement.`,
+  `Le débat est clos, mais on va en reparler toute la semaine.`,
+  `La question mérite d’être posée très fort.`,
+  `Nous demandons une condamnation plus claire, plus ferme, plus longue.`,
+  `C’est la preuve que tout se tient.`,
+  `C’est préoccupant, donc c’est confirmé.`,
+  `On ne peut plus rien dire, mais on va le dire quand même.`,
+  `Dossier à suivre, surtout s’il n’y a rien de nouveau.`
 ];
 
 function randomItem(list) {
@@ -62,9 +77,7 @@ function genererActe() {
   const preuveEl = document.getElementById("preuve");
   const conclusionEl = document.getElementById("conclusion");
 
-  if (!accusationEl || !sourceEl || !preuveEl || !conclusionEl) {
-    return;
-  }
+  if (!accusationEl || !sourceEl || !preuveEl || !conclusionEl) return;
 
   accusationEl.textContent = randomItem(accusations);
   sourceEl.textContent = randomItem(sources);
@@ -72,10 +85,10 @@ function genererActe() {
   conclusionEl.textContent = randomItem(conclusions);
 }
 
-const btn = document.getElementById("generateBtn");
-if (btn) {
-  btn.addEventListener("click", genererActe);
-}
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("generateBtn");
+  if (btn) btn.addEventListener("click", genererActe);
 
-// Génère une première fois au chargement
-genererActe();
+  // Génération automatique au chargement
+  genererActe();
+});
