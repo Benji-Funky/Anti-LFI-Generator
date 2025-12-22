@@ -1,8 +1,8 @@
 // 10 actes d'accusation distincts
 const accusations = [
-  "La France Insoumise est accusée d’être responsable d’un climat de chaos permanent, sans que la nature exacte de ce chaos ne puisse être clairement définie.",
-  "La France Insoumise est soupçonnée d’alimenter une fracture nationale tout en niant publiquement l’existence de toute fracture.",
-  "La France Insoumise est accusée de menacer l’ordre républicain par des méthodes jugées à la fois trop visibles et trop discrètes.",
+  "La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.",
+  "La France Insoumise a tué Jésus",
+  "La France Insoumise est sorti du cercle républicain pour rejoindre le cercle des poètes disparus",
   "La France Insoumise serait à l’origine d’un malaise généralisé, perceptible mais impossible à mesurer.",
   "La France Insoumise est rendue coupable d’un affaiblissement du débat public, précisément parce qu’elle participe à ce débat.",
   "La France Insoumise est accusée de radicalité excessive, ainsi que d’ambiguïté dangereuse, parfois simultanément.",
