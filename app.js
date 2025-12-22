@@ -1,7 +1,7 @@
 const accusations = [
   `La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.`,
   `La France Insoumise aurait tué Jésus pour gagner le vote des banlieux juives.`,
-  `La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus, ce qui pose un problème institutionnel.`,
+  `La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus.`,
   `La France Insoumise serait à l’origine des frères musulmans et serait en train de travailler sur la version woke des "soeurs musulmanes".`,
   `La France Insoumise est rendue coupable de bordéliser les débats, créant ainsi une surcharge de travail pour les services de nettoyage du débat public.`,
   `La France Insoumise serait ambigu sur les ambiguïtés de certains propos ambigus alors qu’il est clair que le débat était ambigu depuis le début.`,
@@ -14,7 +14,18 @@ const accusations = [
   `La France Insoumise souhaite la révolution pour changer la politique, la société, la civilisation, le continuum espace temps et l’ordre naturel des choses.`,
   `La France Insoumise n’aime pas Michel Sardou, ce qui prouve qu’ils n’aiment pas ce que nous sommes.`,
   `La France Insoumise est accusée de provoquer la désunion à gauche, en rejetant l’Alliance au profit de la Horde, ce qui complique fortement le jeu.`
+  `La France Insoumise serait sortie de l’arc républicain pour entrer dans l’arc narratif`
+  `La France Insoumise est accusée d'avoir purgé des individues de leur péchés `
   `La France Insoumise 1 PB`
+  `La France Insoumise refuse les primaires pour éviter un amalgame avec les primeurs, selon des sources proches du marché`
+  `La France Insoumise est accusée d’être une dictature, alors qu’elle est juste dirigée par quelqu’un qui a toujours raison `
+  `La France Insoumise est accusée d’avoir inventé le mot “génocide” pour mettre mal à l’aise les génocidaires`
+  `La France Insoumise est accusée d’avoir inventé le mot “islamophobie” pour mettre mal à l’aise les islamophobes`
+  `La France Insoumise serait complaisante avec Jafar Lazhar`
+  `La France Insoumise serait passée du champ républicain au champ lexical`
+  `La France Insoumise ne menace pas seulement la République au sens institutionnel du terme, mais l’idée même que nous nous faisons de la République comme récit commun, lequel, dès lors qu’il est interrogé, fragilisé, déplacé ou simplement mal formulé, cesse d’être un socle pour devenir une inquiétude, inquiétude qui n’est pas sans rappeler que toute remise en question, lorsqu’elle émane d’un camp qui se dit populaire, finit toujours par ressembler à une attaque contre ce que nous croyions être immuable, et c’est précisément là que réside le danger, non pas dans ce qui est dit, mais dans le fait que cela puisse être pensé.`
+  `La France Insoumise est accusée de ne pas avoir tweeté le bon émoji le 7 octobre `
+  `La France Insoumise est accusée de cliver le pays, notamment en parlant de choses qui clivent `
 ];
 
 const sources = [
