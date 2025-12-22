@@ -4,7 +4,7 @@ const accusations = [
   `La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus, ce qui pose un problème institutionnel.`,
   `La France Insoumise serait à l’origine des frères musulmans et serait en train de travailler sur la version woke des "soeurs musulmanes".`,
   `La France Insoumise est rendue coupable de bordéliser les débats, créant ainsi une surcharge de travail pour les services de nettoyage du débat public.`,
-  `La France Insoumise serait ambiguë sur les ambiguïtés de certains propos ambigus alors qu’il est clair que le débat était ambigu depuis le début.`,
+  `La France Insoumise serait ambigu sur les ambiguïtés de certains propos ambigus alors qu’il est clair que le débat était ambigu depuis le début.`,
   `La France Insoumise serait responsable d’un climat anxiogène, alors qu’il y a toujours eu des variations de climat bien avant l’apparition de la France Insoumise.`,
   `La France Insoumise est accusée d’avoir radicalisé les discussions familiales du dimanche midi.`,
   `La France Insoumise serait coupable de diviser la société en dénonçant les divisions existantes.`,
@@ -14,6 +14,7 @@ const accusations = [
   `La France Insoumise souhaite la révolution pour changer la politique, la société, la civilisation, le continuum espace temps et l’ordre naturel des choses.`,
   `La France Insoumise n’aime pas Michel Sardou, ce qui prouve qu’ils n’aiment pas ce que nous sommes.`,
   `La France Insoumise est accusée de provoquer la désunion à gauche, en rejetant l’Alliance au profit de la Horde, ce qui complique fortement le jeu.`
+  `La France Insoumise 1 PB`
 ];
 
 const sources = [
