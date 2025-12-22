@@ -1,15 +1,20 @@
 // 10 actes d'accusation distincts
 const accusations = [
   "La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.",
-  "La France Insoumise a tué Jésus",
-  "La France Insoumise est sorti du cercle républicain pour rejoindre le cercle des poètes disparus",
-  "La France Insoumise serait à l’origine d’un malaise généralisé, perceptible mais impossible à mesurer.",
-  "La France Insoumise est rendue coupable d’un affaiblissement du débat public, précisément parce qu’elle participe à ce débat.",
-  "La France Insoumise est accusée de radicalité excessive, ainsi que d’ambiguïté dangereuse, parfois simultanément.",
-  "La France Insoumise serait responsable d’un climat anxiogène, bien que ce climat préexistait à son apparition.",
-  "La France Insoumise est accusée d’instrumentaliser des émotions collectives tout en étant elle-même accusée de les provoquer.",
+  "La France Insoumise aurait tué Jésus pour gagner le vote des banlieux juives",
+  "La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus, ce qui pose un problème institutionnel",
+  "La France Insoumise serait à l’origine des frères musulmans et travaillerait actuellement sur la version Woke des \"soeurs musulmanes\"",
+  "La France Insoumise est rendue coupable de bordéliser les debats, créant ainsi une surcharge de travail pour les services de nettoyage du débat public.",
+  "La France Insoumise serait ambigüe sur les ambiguités de certains propos ambigües alors qu'il est clair que le débat était ambigüe depuis le debut",
+  "La France Insoumise serait responsable d’un climat anxiogène, alors qu'il y a toujours eu des variations de climat bien avant l'apparition de la France Insoumise",
+  "La France Insoumise est accusée d’avoir radicalisé les discussions familiales du dimanche midi.",
   "La France Insoumise serait coupable de diviser la société en dénonçant les divisions existantes.",
-  "La France Insoumise est accusée de poser de mauvaises questions, ce qui suffirait à établir sa culpabilité."
+  "La France Insoumise est rendue coupable de polariser la société, y compris des personnes qui n’étaient pas polarisées avant d’en entendre parler."
+  "La France Insoumise n'a pas condamner les violences, et c'est pas bien !"
+  "La France Insoumise n'a pas eu de pensées pour les familles des vitrines"
+  "La France Insoumise souhaite la révolution pour changer la politique, la société, la civilisation, le continuum espace temps et l’ordre naturel des choses."
+  "La France Insoumise n'aime pas Michel Sardou, ce qui prouve qu'ils n'aiment pas ce que nous sommes"
+  "La France Insoumise est accusée de provoquer la désunion à gauche, en rejetant l’Alliance au profit de la Horde, ce qui complique fortement le jeu."
 ];
 
 const sources = [
