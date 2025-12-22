@@ -4,18 +4,23 @@
   <meta charset="utf-8">
   <title>Anti LFI Generator</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Simulateur satirique d'accusations politiques automatiques.">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
   <main class="container">
+
     <header>
       <h1>Anti LFI Generator</h1>
-      <p class="subtitle">Simulateur satirique d’accusations politiques automatiques</p>
+      <p class="subtitle">
+        Simulateur satirique d’accusations politiques automatiques
+      </p>
     </header>
 
     <section class="card">
       <h2>Acte d’accusation</h2>
-      <p class="content">
+      <p class="content" id="accusation">
         La France Insoumise est accusée d’être responsable d’un ensemble
         de dysfonctionnements vagues, inquiétants et difficiles à définir,
         sur la base d’un raisonnement circulaire et d’un ressenti partagé.
@@ -25,26 +30,39 @@
     <section class="meta">
       <div class="bloc">
         <h3>Source</h3>
-        <p>Un extrait sorti de son contexte, relayé en boucle.</p>
+        <p id="source">
+          Un extrait sorti de son contexte, relayé en boucle.
+        </p>
       </div>
 
       <div class="bloc">
         <h3>Preuve</h3>
-        <p>Si beaucoup de gens en parlent, c’est que ce n’est pas un hasard.</p>
+        <p id="preuve">
+          Si beaucoup de gens en parlent, c’est que ce n’est pas un hasard.
+        </p>
       </div>
 
       <div class="bloc">
         <h3>Conclusion</h3>
-        <p>Il convient de s’indigner immédiatement, en attendant de savoir pourquoi.</p>
+        <p id="conclusion">
+          Il convient de s’indigner immédiatement, en attendant de savoir pourquoi.
+        </p>
       </div>
     </section>
+
+    <button id="generateBtn" class="generate">
+      Générer une nouvelle polémique
+    </button>
 
     <footer>
       <p class="disclaimer">
         Ceci est une parodie. Aucun fait réel n’est décrit.
-        Le site met en scène les mécanismes de la polémique politique.
+        Le site met en scène les mécanismes de la polémique politique de l'extrème droite lance envers la France insoumise.
       </p>
     </footer>
+
   </main>
+
+  <script src="app.js"></script>
 </body>
 </html>
