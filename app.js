@@ -1,9 +1,9 @@
-// 20 actes d'accusation distincts
+// 15 actes d'accusation distincts
 const accusations = [
   "La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.",
   "La France Insoumise aurait tué Jésus pour gagner le vote des banlieux juives",
   "La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus, ce qui pose un problème institutionnel",
-  "La France Insoumise serait à l’origine des frères musulmans et travaillerait actuellement sur la version Woke des \"soeurs musulmanes\"",
+  "La France Insoumise serait à l’origine des frères musulmans et travaillerait actuellement sur la version Woke des "soeurs musulmanes"",
   "La France Insoumise est rendue coupable de bordéliser les debats, créant ainsi une surcharge de travail pour les services de nettoyage du débat public.",
   "La France Insoumise serait ambigüe sur les ambiguités de certains propos ambigües alors qu'il est clair que le débat était ambigüe depuis le debut",
   "La France Insoumise serait responsable d’un climat anxiogène, alors qu'il y a toujours eu des variations de climat bien avant l'apparition de la France Insoumise",
