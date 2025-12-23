@@ -1,6 +1,6 @@
 const accusations = [
   `La France Insoumise est accusée d’être responsable de la montée de l’antisémitisme en France, en Europe, sur Terre, et sur Namek.`,
-  `La France Insoumise aurait tué Jésus pour gagner le vote des banlieues juives.`,
+  `La France Insoumise aurait tué Jésus.`,
   `La France Insoumise serait sortie du cercle républicain pour rejoindre le cercle des poètes disparus.`,
   `La France Insoumise serait à l’origine des frères musulmans et serait en train de travailler sur la version woke des "soeurs musulmanes".`,
   `La France Insoumise est rendue coupable de bordéliser les débats, créant ainsi une surcharge de travail pour les services de nettoyage du débat public.`,
